@@ -1,6 +1,6 @@
 # 💻 Vipul Madavi
 
-** AI, CyberSec & DevSecOps | CSE Student | Enthusiastic Learner**  
+**AI, CyberSec & DevSecOps | CSE Student | Enthusiastic Learner**  
 Pune, India 👋
 
 ---
