@@ -7,11 +7,11 @@ Pune, India 👋
 
 ## 🚀 About Me
 
-Third-year Computer Science Engineering student passionate about **cybersecurity**, AI, and building secure, intelligent solutions. SIH 2025 finalist with hands-on experience in cryptography, steganography, and network security. Currently building my portfolio while exploring **DevSecOps** and **cloud-native security**.<br><br>
+Third-year Computer Science Engineering student passionate about **cybersecurity**, AI, and building secure, intelligent solutions. Hands-on experience in cryptography, steganography, and network security. Currently building my portfolio while exploring **DevSecOps** and **cloud-native security**.<br><br>
 
 **🔭 Currently working on**
 
-- **Portfolio website** (this very page! 🚀)
+- **Portfolio website**
 - **Cloud Monitoring AI Dashboard** (AI-driven security analytics)
 - **SOC Analysis Tool** (Security Operations Center automation)
 - DevSecOps pipelines & infrastructure security
@@ -91,4 +91,6 @@ Shipped production-grade security tools during internship at 20 🚀
 
 ---
 
-_🔐 Secure by design | DevSecOps | Cloud Security | SIH'25 Finalist 🚀_
+<div align ="center">
+_🔐 Secure by design | DevSecOps | Cloud Security |_
+</div>
