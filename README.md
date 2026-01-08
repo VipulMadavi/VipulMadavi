@@ -35,9 +35,10 @@ Third-year Computer Science Engineering student passionate about **cybersecurity
 - Network security & SIEM implementation
 - Secure CI/CD pipelines
 - Cloud-native security best practices
-
-**⚡ Quick fact**  
+<!--
+**⚡ Quick fact**
 Shipped production-grade security tools during internship at 20 🚀
+-->
 
 ---
 
