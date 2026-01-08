@@ -62,8 +62,7 @@ Shipped production-grade security tools during internship at 20 🚀
 
 ## 📊 GitHub Stats
 <div align="center">
-  ![Vipul's GitHub stats](https://github-readme-stats.vercel.app/api?username=VipulMadavi&show_icons=true&theme=radical&hide_border=true)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VipulMadavi&layout=compact&theme=radical&hide_border=true)
+  ![Vipul's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VipulMadavi&theme=tokyonight)
 </div>
 
 <div align="center">
