@@ -1,6 +1,6 @@
 # 💻 Vipul Madavi
 
-**SIH'25 Finalist | AI, CyberSec & DevSecOps | CSE Student**  
+** AI, CyberSec & DevSecOps | CSE Student | Enthusiastic Learner**  
 Pune, India 👋
 
 ---
