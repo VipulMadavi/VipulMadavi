@@ -70,22 +70,10 @@ Shipped production-grade security tools during internship at 20 🚀
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VipulMadavi&theme=react-dark&hide_border=true)
 </div>
 
----
-
-## 🏅 Certifications
-[![IBM Cybersecurity](https://img.shields.io/badge/IBM-Cybersecurity%20Fundamentals-blue?style=for-the-badge&logo=ibm&logoColor=white)] [![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity%20Specialization-orange?style=for-the-badge&logo=google&logoColor=white)]
-
----
 
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="100"/>
-</div>
-
----
-
-<div align="center">
-  ![Profile Views](https://visitcount.itsvg.in/api?id=VipulMadavi&label=Profile%20Views&color=3&icon=5&pretty=true)
 </div>
 
 ---
