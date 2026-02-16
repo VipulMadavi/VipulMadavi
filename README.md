@@ -8,13 +8,14 @@ Pune, India 👋
 ## 🚀 About Me
 
 Third-year Computer Science Engineering student passionate about **cybersecurity**, AI, and building secure, intelligent solutions. Hands-on experience in cryptography, steganography, and network security. Currently building my portfolio while exploring **DevSecOps** and **cloud-native security**.<br><br>
-
+<!--
 **🔭 Currently working on**
 
 - **Portfolio website**
 - **Cloud Monitoring AI Dashboard** (AI-driven security analytics)
 - **SOC Analysis Tool** (Security Operations Center automation)
 - DevSecOps pipelines & infrastructure security
+-->
 
 **👯 Open to collaborate on**
 
@@ -44,7 +45,7 @@ Shipped production-grade security tools during internship at 20 🚀
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vipul-madavi1509) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vipulmadavi1509@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VipulMadavi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=reverbnation&logoColor=white)](https://vipulmadavi.github.io/my-portfolio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vipul-madavi1509) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vipulmadavi1509@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VipulMadavi)
 
 ---
 
