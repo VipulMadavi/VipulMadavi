@@ -7,7 +7,9 @@ Pune, India 👋
 
 ## 🚀 About Me
 
-Third-year Computer Science Engineering student passionate about **cybersecurity**, AI, and building secure, intelligent solutions. Hands-on experience in cryptography, steganography, and network security. Currently building my portfolio while exploring **DevSecOps** and **cloud-native security**.<br><br>
+Final-year Computer Science Engineering student passionate about building secure, scalable software. My interests lie at the intersection of software engineering, cloud security, and AI.
+
+I enjoy building full-stack applications, cloud security tools, and developer-focused software using Python, TypeScript, React, AWS, and modern backend technologies. Currently exploring DevSecOps, distributed systems, and cloud-native security while contributing to open-source and personal projects.
 <!--
 **🔭 Currently working on**
 
@@ -19,23 +21,26 @@ Third-year Computer Science Engineering student passionate about **cybersecurity
 
 **👯 Open to collaborate on**
 
-- Cybersecurity tools & research
-- DevSecOps/CI-CD security hardening
-- Cloud security monitoring projects
-- Hackathons & security challenges
+- Open-source developer tools
+- Cloud security & AWS projects
+- Full-stack web applications
+- AI-powered developer products
+- Hackathons & technical communities
 
 **🌱 Currently learning**
 
-- **DevOps & DevSecOps** (CI/CD, IaC, GitOps)
-- **Cloud Security** (AWS/GCP security architecture)
-- Advanced threat detection & ML security
+- Cloud infrastructure & AWS security
+- DevSecOps, CI/CD & Infrastructure as Code
+- Distributed systems & backend architecture
+- AI applications & LLM integrations
 
 **💬 Ask me about**
 
-- AEStego (cryptography + steganography)
-- Network security & SIEM implementation
-- Secure CI/CD pipelines
-- Cloud-native security best practices
+- AWS IAM & cloud security
+- Python & backend development
+- React / Next.js applications
+- AI integrations & developer tools
+- DevSecOps & Linux
 <!--
 **⚡ Quick fact**
 Shipped production-grade security tools during internship at 20 🚀
@@ -93,5 +98,5 @@ Shipped production-grade security tools during internship at 20 🚀
 ---
 
 <div align ="center">
-_🔐 Secure by design | DevSecOps | Cloud Security |_
+_💡 Building software that's secure, scalable, and useful._
 </div>
